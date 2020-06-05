@@ -1,0 +1,4 @@
+# ignore pycharm folder
+.idea
+desktop.ini
+.idea/
